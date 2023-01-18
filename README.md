@@ -40,6 +40,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=YUME-FF)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUME-FF)](https://github.com/YUME-FF/github-readme-stats)
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=YUME-FF&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+[![My Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YUME-FF&layout=compact&langs_count=8&theme=algolia)](https://github.com/YUME-FF/github-readme-stats)
 ![My Programming Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YUME-FF&layout=compact&langs_count=8&theme=algolia)
 
 ### :page_facing_up: &nbsp; Publications (Welcome to cite!)
