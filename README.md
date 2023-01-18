@@ -14,6 +14,8 @@
   <img src="https://media.giphy.com/media/pWAc5QD378nqBtH3PS/giphy.gif" width="200" height="150"/>
 </div>
 
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="200" height="200"/>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -25,13 +27,14 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=Tensorflow)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Emacs](https://img.shields.io/badge/-Emacs-05122A?style=flat&logo=emacs)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=Blender)&nbsp;
 ![Unity3D](https://img.shields.io/badge/-Unity3D-05122A?style=flat&logo=Unity)&nbsp;
 
-
+----------------------------
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -40,6 +43,16 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YUME-FF&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+### :page_facing_up: &nbsp; Publications (Welcome to cite!)
+<a id="1">[1]</a> 
+Zhe Fan, Xing Hu, Wen-Ming Chen, Da-Wei Zhang, & Xin Ma (2022). A deep learning based 2-dimensional hip pressure signals analysis method for sitting posture recognition. Biomedical Signal Processing and Control, 73, 103432. https://doi.org/10.1016/j.bspc.2021.103432
+
+<a id="2">[2]</a> 
+Xing Hu, Zhe Fan, Linhua Jiang, Jiawei Xu, Guoqiang Li, Wenming Chen, Xinhua Zeng, Genke Yang, & Dawei Zhang (2022). TOP-ALCM: A novel video analysis method for violence detection in crowded scenes. Information Sciences, 606, 313-327.https://doi.org/10.1016/j.ins.2022.05.045
+
+<a id="3">[3]</a> 
+Hu, X.; Xie, C.; Fan, Z.; Duan, Q.; Zhang, D.; Jiang, L.; Wei, X.; Hong, D.; Li, G.; Zeng, X.; Chen, W.; Wu, D.; Chanussot, J. Hyperspectral Anomaly Detection Using Deep Learning: A Review. Remote Sens. 2022, 14, 1973. https://doi.org/10.3390/rs14091973
 
 ### 🤝🏻 &nbsp;Connect with Me
 
