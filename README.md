@@ -37,12 +37,9 @@
 ----------------------------
 ### :fire: &nbsp; My Stats :
 
-<a href="https://github.com/YUME-FF/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YUME-FF&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/YUME-FF/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YUME-FF&layout=compact&langs_count=8&theme=algolia&custom_title=My%20Programming%20Languages" />
-</a>
+[![My Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/YUME-FF?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
+[![My Programming Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YUME-FF&layout=compact&langs_count=8&theme=algolia&custom_title=My%20Programming%20Languages)](https://github.com/YUME-FF/github-readme-stats)
+
 
 ### :page_facing_up: &nbsp; Publications (Welcome to cite!)
 <a id="1">[1]</a> 
