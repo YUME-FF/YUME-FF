@@ -1,4 +1,4 @@
-## 👋 &nbsp;Hey there! I'm Zhe Fan
+## 👋 &nbsp;Hey there! I'm Zhe Fan!
 
 ### 👨🏻‍💻 &nbsp;About Me
 
