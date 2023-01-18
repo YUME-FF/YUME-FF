@@ -35,7 +35,7 @@
 ![Unity3D](https://img.shields.io/badge/-Unity3D-05122A?style=flat&logo=Unity)&nbsp;
 
 ----------------------------
-### ⚙️ &nbsp;GitHub Analytics
+### :fire: &nbsp; My Stats :
 
 <p align="center">
 <a href="https://github.com/YUME-FF">
