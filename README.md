@@ -36,7 +36,7 @@
 
 ----------------------------
 ### :fire: &nbsp; My Stats :
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YUME-FF)](https://github.com/YUME-FF/github-readme-stats)
 [![My Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/YUME-FF?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
 [![My Programming Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YUME-FF&layout=compact&langs_count=8&theme=algolia&custom_title=My%20Programming%20Languages)](https://github.com/YUME-FF/github-readme-stats)
 
