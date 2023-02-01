@@ -36,8 +36,7 @@
 
 ----------------------------
 ### :fire: &nbsp; My Stats :
-
-[![My Programming Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YUME-FF&layout=compact&langs_count=8&theme=algolia&custom_title=My%20Programming%20Languages)](https://github.com/YUME-FF/github-readme-stats)
+[![My Programming Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YUME-FF&layout=compact&langs_count=8&theme=algolia&custom_title=My%20Programming%20Languages)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### :page_facing_up: &nbsp; Publications (Welcome to cite!)
