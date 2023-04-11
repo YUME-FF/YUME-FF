@@ -53,4 +53,5 @@ Hu, X.; Xie, C.; Fan, Z.; Duan, Q.; Zhang, D.; Jiang, L.; Wei, X.; Hong, D.; Li,
 
 <p align="left">
 <a href="https://www.linkedin.com/in/zhe-fan-876a58187/"><img src="https://img.shields.io/badge/-Zhe%20Fan%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://scholar.google.com/citations?user=8NX6MPwAAAAJ&hl=en"><img src="https://img.shields.io/badge/GoogleScholar-Zhe%20Fan-blue?style=flat&logo=Google"/></a>
 </p>
