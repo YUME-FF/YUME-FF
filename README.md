@@ -4,7 +4,7 @@
 Here is my personal Website [Jeff(Zhe) Fan](https://yume-ff.github.io/)
 
 🎓 &nbsp;I'm currently studying **Electrical and Computer Engineering** at **Duke University**.\
-🌱 &nbsp;I'm on track of **Software Engineering** for learning **System Design, Front-End Engineering and Algorithms**.\
+🌱 &nbsp;I'm on track of **Software Engineering** for learning **System Design, Back-End Engineering and Algorithms**.\
 ✍️ &nbsp;I'm also self-learning **Machine Learning in Computer Vision, Game Development and 3D modeling**.\
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 :airplane: &nbsp;In my free time, I pursue traveling, animation<img src="https://media.giphy.com/media/rpkvgo4UnIrlhMEikq/giphy.gif" width="30" height="30"/> and workout as hobbies.\
