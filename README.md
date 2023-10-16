@@ -1,4 +1,4 @@
-## 👋 &nbsp;Hey there! I'm Zhe Fan!
+## 👋 &nbsp;Hey there! I'm Jeff(Zhe) Fan!
 
 ### 👨🏻‍💻 &nbsp;About Me
 Here is my personal Website [Jeff(Zhe) Fan](https://yume-ff.github.io/)
