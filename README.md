@@ -1,7 +1,7 @@
 ## 👋 &nbsp;Hey there! I'm Jeff(Zhe) Fan!
 
 ### 👨🏻‍💻 &nbsp;About Me
-Here is my personal Website [Jeff(Zhe) Fan](https://yume-ff.github.io/)
+Here is my personal Website [Jeff(Zhe) Fan](https://yumeblog.vercel.app/)
 
 🎓 &nbsp;I'm currently studying **Electrical and Computer Engineering** at **Duke University**.\
 🌱 &nbsp;I'm on track of **Software Engineering** for learning **System Design, Back-End Engineering and Algorithms**.\
